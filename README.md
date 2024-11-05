@@ -48,10 +48,10 @@ print ( "Antonyms : " ,set(antonyms) )
 
 <H3>Output</H3>
 <H3>PARTS OF SPEECH :</H3>H3>
-![Screenshot 2024-11-05 222123](https://github.com/user-attachments/assets/377b02cc-1d63-4f76-aea1-2da62a7a3d78)
 
+![Screenshot 2024-11-05 222123](https://github.com/user-attachments/assets/f67a747f-dc84-4908-a178-4c2ae5e15915)
 
-<H3>SYNONYMS AND ANTONYMS :</H3>H3>
+<H3>SYNONYMS AND ANTONYMS :</H3>
 
 ![Screenshot 2024-11-05 222129](https://github.com/user-attachments/assets/74fc5619-a653-483b-b035-6b23ee42c115)
 
